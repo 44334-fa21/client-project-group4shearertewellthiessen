@@ -1,4 +1,6 @@
-body {}
+body {
+
+}
 
 .calendar {
   margin: auto;
@@ -37,11 +39,10 @@ th {
   font-family: arial black;
 }
 td{
-  background: #00264d;
+  background: #B7CEEC;
   color: blue;
   }
   td:hover{
-    background: green;
-
+    background:green;
   }
 }
