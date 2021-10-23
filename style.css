@@ -2,6 +2,7 @@ body {
 
 }
 
+
 .calendar {
   margin: auto;
   max-width: 800px font-family:serif;
@@ -42,4 +43,3 @@ td{
   background: #B7CEEC;
   color: blue;
   }
-  
