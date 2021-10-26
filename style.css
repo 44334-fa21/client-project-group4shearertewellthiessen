@@ -46,17 +46,18 @@ td{
   background: #B7CEEC;
   color: blue;
   }
-  .container {
+  .frontphoto {
     position: relative;
     width: 50%;
+    filter: blur(200%);
   }
 
-  .container img {
+  .frontphoto img {
     width: 100%;
     height: auto;
   }
 
-  .container .btn {
+  .frontphoto .btn {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -71,6 +72,6 @@ td{
     border-radius: 5px;
   }
 
-  .container .btn:hover {
+  .frontphoto .btn: hover {
     background-color: #85c341;
   }
