@@ -30,7 +30,7 @@ table, th, td {
   font-size: 27px;
   border-collapse: collapse;
   border: 5px solid black;
-  font-family: fantasy;
+  font-family: serif;
 }
 
 tr, th, td {
@@ -72,6 +72,6 @@ td{
     border-radius: 5px;
   }
 
-  .frontphoto .btn: hover {
+  .container .btn: hover {
     background-color: #85c341;
   }
