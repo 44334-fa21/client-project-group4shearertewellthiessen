@@ -64,14 +64,16 @@ td{
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color:  #85c341;
-    color: white;
+    color: #450091;
     font-size: 16px;
     padding: 12px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
+
   }
 
-  .container .btn: hover {
-    background-color: #85c341;
+  .frontphoto .btn:hover {
+    background-color: #4eaee2;
+    color: #ffffff;
   }
