@@ -71,6 +71,6 @@ td{
     border-radius: 5px;
   }
 
-  .container .btn:hover {
+  .container .btn: hover {
     background-color: #85c341;
   }
