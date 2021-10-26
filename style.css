@@ -2,6 +2,10 @@ body {
 
 }
 
+nav{
+  background-color: #af40c2;
+}
+
 .calendar {
   margin: auto;
   max-width: 800px font-family:serif;
