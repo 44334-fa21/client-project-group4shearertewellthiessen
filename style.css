@@ -4,10 +4,12 @@ body {
 
 nav{
   background-color: #af40c2;
+  display: block;
 }
 .Providers{
   background-color: #85c341;
   font-family: serif;
+  color: black;
 }
 
 .calendar {
@@ -46,10 +48,12 @@ th {
   color: white;
   font-family: arial black;
 }
-td{
-  background: #B7CEEC;
-  color: blue;
+  td{
+    background: #B7CEEC;
+    color: blue;
   }
+
+
   .frontphoto {
     position: relative;
     width: 50%;
