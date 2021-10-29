@@ -1,13 +1,10 @@
 body {
 
 }
-.topnav {
-  overflow: hidden;
-  background-color: #4eaee2;
-}
+
 
 .topnav a {
-  float: left;
+  float:left;
   display: block;
   color: black;
   text-align: center;
@@ -65,6 +62,7 @@ body {
 }
 
 .Providers{
+  margin: auto;
   background-color: #85c341;
   font-family: serif;
   color: black;
