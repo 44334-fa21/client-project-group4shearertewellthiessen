@@ -1,11 +1,30 @@
 body {
 
 }
-
-nav{
-  background-color: #af40c2;
-  display: block;
+.topnav {
+  overflow: hidden;
+  background-color: #4eaee2;
 }
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom:  3px solid red;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid red;
+}
+
 .Providers{
   background-color: #85c341;
   font-family: serif;
