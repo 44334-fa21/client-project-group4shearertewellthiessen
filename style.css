@@ -1,5 +1,7 @@
-body {}
+body {
 
+}
+/*Headed style*/
 .topnav a {
   float: left;
   display: block;
@@ -23,7 +25,7 @@ body {}
   overflow: hidden;
   background-color: #E238EC;
 }
-
+/*Services Style*/
 .services {
   text-align: center;
   padding: 14px 16px;
@@ -31,13 +33,20 @@ body {}
   font-family: serif;
   background-color: #85c341;
 }
-
+/*Services Provided Style*/
 .svcprovided {
   text-align: justify;
   font-family: sans-serif;
   background-color: #85c341;
 }
-
+/*Providers Style*/
+.Providers {
+  margin: auto;
+  background-color: #85c341;
+  font-family: serif;
+  color: black;
+}
+/*Footer Style*/
 .bottomnav a {
   float: left;
   display: block;
@@ -61,14 +70,7 @@ body {}
   overflow: hidden;
   background-color: #E238EC;
 }
-
-.Providers {
-  margin: auto;
-  background-color: #85c341;
-  font-family: serif;
-  color: black;
-}
-
+/*Calendar Style*/
 .calendar {
   margin: auto;
   max-width: 800px font-family:serif;
@@ -95,13 +97,11 @@ table, th, td {
   border: 5px solid black;
   font-family: serif;
 }
-
+/*bottom of Home page style*/
 tr, th, td {
   padding: 15px;
 }
-.table{
-  
-}
+
 th {
   background-color: #FFA500;
   color: white;
@@ -112,7 +112,7 @@ td {
   background: #B7CEEC;
   color: blue;
 }
-
+/*Home Page Style*/
 .index {
   color: #FFA500;
 }
