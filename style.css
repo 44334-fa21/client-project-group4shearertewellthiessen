@@ -1,6 +1,13 @@
 body {
 
 }
+.right{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
 /*Headed style*/
 .topnav a {
   float: left;
@@ -37,7 +44,8 @@ body {
 .svcprovided {
   text-align: justify;
   font-family: sans-serif;
-  background-color: #85c341;
+  background-color: #4eaee2;
+
 }
 /*Providers Style*/
 .Providers {
