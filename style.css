@@ -24,6 +24,33 @@ body {
 .topnav a.active {
   border-bottom: 3px solid red;
 }
+.topnav {
+  overflow: hidden;
+  background-color: #4eaee2;
+}
+
+.bottomnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.bottomnav a:hover {
+  border-bottom:  3px solid red;
+}
+
+.bottomnav a.active {
+  border-bottom: 3px solid red;
+}
+.bottomnav {
+  overflow: hidden;
+  background-color: #4eaee2;
+}
 
 .Providers{
   background-color: #85c341;
