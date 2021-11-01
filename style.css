@@ -129,12 +129,13 @@ td {
   position: relative;
   width: 50%;
   filter: blur(200%);
+  padding-left: 200px;
 }
 
 .frontphoto img {
   width: 100%;
   height: auto;
-}
+  }
 
 .frontphoto .btn {
   position: absolute;
