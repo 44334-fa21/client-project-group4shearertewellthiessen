@@ -1,6 +1,8 @@
 body {
-
+  background-color: #af40c2;
 }
+
+
 .right{
 display: block;
 margin-left: auto;
@@ -123,24 +125,29 @@ td {
 /*Home Page Style*/
 .index {
   color: #FFA500;
+  background-color: #af40c2;
+
 }
 
 .frontphoto {
   position: relative;
   width: 50%;
   filter: blur(200%);
-  padding-left: 200px;
+  padding-left: 275px;
+  background-color: #af40c2;
 }
 
 .frontphoto img {
   width: 100%;
   height: auto;
+  background-color: #af40c2;
+
   }
 
 .frontphoto .btn {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 55%;
+  left: 65%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #85c341;
