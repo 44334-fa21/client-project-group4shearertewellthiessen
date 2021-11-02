@@ -1,5 +1,5 @@
 body {
-  background-color: #af40c2;
+  background-color:#af40c2;
 }
 
 .right {
@@ -102,7 +102,7 @@ body {
   border: 3px solid orange;
 }
 
-table, th, td {
+.calendar table, th, td {
   width: 100%;
   table-layout: fixed;
   text-align: center;
@@ -113,17 +113,17 @@ table, th, td {
 }
 
 /*bottom of Home page style*/
-tr, th, td {
+.calendar tr, th, td {
   padding: 15px;
 }
 
-th {
+.calendar th {
   background-color: #FFA500;
   color: white;
   font-family: arial black;
 }
 
-td {
+.calendar td {
   background: #B7CEEC;
   color: blue;
 }
@@ -146,6 +146,7 @@ td {
   width: 100%;
   height: auto;
   background-color: #af40c2;
+  filter: blur(3px);
 }
 
 .frontphoto .btn {
@@ -164,6 +165,24 @@ td {
 }
 
 .frontphoto .btn:hover {
-  background-color: #4eaee2;
   color: #ffffff;
+  background-color: #4eaee2;
+}
+
+.table table{
+  margin: auto;
+  max-width: 800px font-family:serif;
+  font-weight: bold;
+  color: black;
+  margin: 10% 10%;
+}
+.table table, th, td {
+  width: 100%;
+  table-layout:fixed;
+  margin: 5px;
+  text-align: center;
+  font-size: 25px;
+  border-collapse: separate;
+  border: 0px solid black;
+  font-family: serif;
 }
