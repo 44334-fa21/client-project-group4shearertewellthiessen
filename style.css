@@ -198,3 +198,7 @@ aside {
       float: left;
       padding-right: 12px;
 }
+a {
+  display: inline-block;
+  text-decoration: none;
+}
