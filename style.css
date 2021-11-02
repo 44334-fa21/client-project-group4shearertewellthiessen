@@ -2,12 +2,11 @@ body {
   background-color: #af40c2;
 }
 
-
-.right{
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%;
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /*Headed style*/
@@ -34,6 +33,7 @@ width: 50%;
   overflow: hidden;
   background-color: #E238EC;
 }
+
 /*Services Style*/
 .services {
   text-align: center;
@@ -42,20 +42,23 @@ width: 50%;
   font-family: serif;
   background-color: #85c341;
 }
+
 /*Services Provided Style*/
 .svcprovided {
   text-align: justify;
   font-family: sans-serif;
   background-color: #4eaee2;
-
 }
+
 /*Providers Style*/
 .Providers {
+  text-align: center;
   margin: auto;
   background-color: #85c341;
   font-family: serif;
   color: black;
 }
+
 /*Footer Style*/
 .bottomnav a {
   float: left;
@@ -80,6 +83,7 @@ width: 50%;
   overflow: hidden;
   background-color: #E238EC;
 }
+
 /*Calendar Style*/
 .calendar {
   margin: auto;
@@ -107,6 +111,7 @@ table, th, td {
   border: 5px solid black;
   font-family: serif;
 }
+
 /*bottom of Home page style*/
 tr, th, td {
   padding: 15px;
@@ -122,11 +127,11 @@ td {
   background: #B7CEEC;
   color: blue;
 }
+
 /*Home Page Style*/
 .index {
   color: #FFA500;
   background-color: #af40c2;
-
 }
 
 .frontphoto {
@@ -141,8 +146,7 @@ td {
   width: 100%;
   height: auto;
   background-color: #af40c2;
-
-  }
+}
 
 .frontphoto .btn {
   position: absolute;
