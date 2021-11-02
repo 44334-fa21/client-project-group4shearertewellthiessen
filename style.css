@@ -118,13 +118,13 @@ body {
 }
 
 .calendar th {
-  background-color: #FFA500;
+  background-color: #af40c2;
   color: white;
   font-family: arial black;
 }
 
 .calendar td {
-  background: #B7CEEC;
+  background: #af40c2;
   color: blue;
 }
 
