@@ -181,10 +181,20 @@ body {
   table-layout:fixed;
   margin: 5px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
   border-collapse: separate;
   border: 0px solid black;
   font-family: serif;
+  background-color: #ffffff;
+}
+.table th {
+  color: #4eaee2;
+  font-size: 25px;
 }
 h1 {text-align: center;
     color: #4eaee2;}
+
+aside {
+      float: left;
+      padding-right: 12px;
+}
