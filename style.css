@@ -15,10 +15,10 @@ body {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 18px;
-  padding-right: 22px;
+  padding: 12px 14px;
+  padding-right: 14px;
   text-decoration: none;
-  font-size: 28px;
+  font-size: 18px;
   border-bottom: 3px solid transparent;
 }
 
