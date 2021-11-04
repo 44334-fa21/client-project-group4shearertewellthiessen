@@ -100,7 +100,7 @@ body {
   font-size: 80px;
   letter-spacing: 1px;
   color: black;
-  border: 3px solid orange;
+  border: 3px solid #E238EC;
 }
 
 .calendar table, th, td {
@@ -113,7 +113,6 @@ body {
   font-family: serif;
 }
 
-/*bottom of Home page style*/
 .calendar tr, th, td {
   padding: 15px;
 }
