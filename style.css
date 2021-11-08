@@ -62,7 +62,7 @@ body {
   text-decoration: none;
   font-size: 17px;
   border-bottom: 3px solid transparent;
-  display:inline-block;
+  display: inline-block;
   margin: auto;
 }
 
@@ -77,14 +77,13 @@ body {
 .bottomnav {
   overflow: hidden;
   background-color: #af40c2;
-
 }
 
 /*Calendar Style*/
 .calendar {
   margin: auto;
   max-width: 800px;
-  font-family:serif;
+  font-family: serif;
   font-weight: bold;
   color: #000000;
 }
@@ -162,7 +161,7 @@ body {
 
 .table table {
   margin: auto;
-  font-family:serif;
+  font-family: serif;
   font-weight: bold;
   color: #000000;
   margin: 10% 10%;
@@ -215,13 +214,15 @@ a {
   margin: auto;
   width: 90%;
 }
-.column{
-float: left;
+
+.column {
+  float: left;
   width: 45%;
   padding: 5px;
 }
 
 .row::after {
-  content:"";
+  content: "";
   clear: both;
-  display: table;}
+  display: table;
+}
