@@ -25,18 +25,19 @@ body {
   border-bottom: 3px solid transparent;
 }
 
-.topnav a:hover {
-  border-bottom: 3px solid #ff0000;
+/*.topnav a:hover {
+  border-bottom: 3px solid #85c341;
 }
 
 .topnav a.active {
-  border-bottom: 3px solid #ff0000;
+  border-bottom: 3px solid #85c341;
 }
-
+*/
 .topnav {
   overflow: hidden;
   background-color: #af40c2;
 }
+
 
 /*Services Provided Style*/
 .svcprovided {
@@ -66,14 +67,14 @@ body {
   margin: auto;
 }
 
-.bottomnav a:hover {
-  border-bottom: 3px solid #ff0000;
+/*.bottomnav a:hover {
+  border-bottom: 3px solid #85c341;
 }
 
 .bottomnav a.active {
-  border-bottom: 3px solid #ff0000;
+  border-bottom: 3px solid #85c341;
 }
-
+*/
 .bottomnav {
   overflow: hidden;
   background-color: #af40c2;
