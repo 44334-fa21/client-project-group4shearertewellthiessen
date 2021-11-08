@@ -131,13 +131,13 @@ body {
 .frontphoto {
   position: relative;
   width: 50%;
-  padding-left: 375px;
+  padding-left: 295px;
 }
 
 .frontphoto img {
   width: 100%;
   height: auto;
-  filter: blur(3px);
+  filter: blur(2px);
   align-content: center;
 }
 
