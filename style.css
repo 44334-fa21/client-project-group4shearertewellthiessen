@@ -29,11 +29,7 @@ body {
   color: #85c341;
 }
 
-/*
-.topnav a.active {
-  border-bottom: 3px solid #85c341;
-}
-*/
+
 .topnav {
   overflow: hidden;
   background-color: #af40c2;
@@ -71,11 +67,7 @@ body {
   color: #85c341;
 }
 
-/*
-.bottomnav a.active {
-  border-bottom: 3px solid #85c341;
-}
-*/
+
 .bottomnav {
   overflow: hidden;
   background-color: #af40c2;
