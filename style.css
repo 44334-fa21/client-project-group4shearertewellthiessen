@@ -137,7 +137,6 @@ color: #85c341;
 .frontphoto img {
   width: 100%;
   height: auto;
-  filter: blur(2px);
   align-content: center;
 }
 
