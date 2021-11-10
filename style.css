@@ -37,9 +37,9 @@ body {
 
 /*Services Provided Style*/
 .svcprovided {
-  text-align: justify;
+  text-align: left;
   font-family: sans-serif;
-  margin: auto;
+  margin: inherit;
 }
 
 /*Providers Style*/
