@@ -39,6 +39,7 @@ body {
 .svcprovided {
   text-align: justify;
   font-family: sans-serif;
+  margin: auto;
 }
 
 /*Providers Style*/
