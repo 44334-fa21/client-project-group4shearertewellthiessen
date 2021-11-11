@@ -231,6 +231,11 @@ a {
   font-size: 17px;
 }
 
+
+
+.topnav input[type=text] {
+  border: 1px solid #ccc;
+}
 /* When the screen is less than 600px wide (placeholder)*/
 @media screen and (max-width: 600px) {
   .topnav a, .topnav input[type=text] {
@@ -241,10 +246,6 @@ a {
     margin: 0;
     padding: 14px;
   }
-}
-
-.topnav input[type=text] {
-  border: 1px solid #ccc;
 }
 /*
     ##Device = Desktops
