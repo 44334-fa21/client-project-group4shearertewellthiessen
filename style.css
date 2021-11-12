@@ -89,7 +89,7 @@ body {
   font-size: 80px;
   letter-spacing: 1px;
   color: #000000;
-  border: 3px solid #E238EC;
+  border: 5px solid #000000;
 }
 
 .calendar table, th, td {
@@ -107,14 +107,14 @@ body {
 }
 
 .calendar th {
-  background-color: #4eaee2;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
   font-family: "arial black", sans-serif;
 }
 
 .calendar td {
-  background: #af40c2;
-  color:white;
+  background: #ffffff;
+    color:white;
 }
 
 /*Home Page Style*/
